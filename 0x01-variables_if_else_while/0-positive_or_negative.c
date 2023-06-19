@@ -1,17 +1,16 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* A program that checks whether a number is positive or not
+/* A program that 
+ * checks whether a number is positive or not
  
 
-/**
- * main - Prints if number is positive, or zer
+ * main - Prints if number is positive, or zero
  * Return: Always Success
- **/
+ */
 
 int main(void)
 {
-
 	int n;
 
 	srand(time(0));
